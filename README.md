@@ -15,4 +15,4 @@ Python 3, Pandas, Jupyter, NumPy, SciPy, Scikit-Learn, Seaborn, Matplotlib, CatB
 PostgreSQL, Phik, Shap
 
 ###### Other tools:
-Ubuntu, Git, Kaggle
+Ubuntu, Git, Kaggle, Streamlit
