@@ -42,7 +42,7 @@ Git: https://github.com/sergalrum/repetit_master
 Git: https://github.com/sergalrum/m_tech_streamlit_app
 
 -	Разработал модель, позволяющую классифицировать музыкальные произведения по жанрам, чтобы улучшить работу рекомендательной системы. (Классический ML, классификация)  
-Git: https://github.com/sergalrum/kaggle_music_genre_prediction 
+Git: https://github.com/sergalrum/kaggle_music_genre_prediction  
 Kaggle: https://www.kaggle.com/competitions/music-genre-prediction-m124ds/overview 
 
 
