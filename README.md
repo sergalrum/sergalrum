@@ -9,8 +9,8 @@
 Classic ML, NLP, CV, FCNN
 
 #### Technical Skills
-Strong matematical background (BMSTU, Moscow)  
-Python  
+Strong matematical background (***BMSTU***, Moscow)  
+***Python***  
 ***DA*** (Jupyter, Pandas, NumPy, SciPy, Seaborn, Matplotlib, Phik, Shap)  
 ***ML/DL*** (Scikit-Learn, CatBoost, PyTorch, BERT, Keras, Pymystem3/NLTK, transformers)  
 ***Other*** (Git, Ubuntu, Docker, Streamlit)
