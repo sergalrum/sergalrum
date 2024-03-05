@@ -6,7 +6,7 @@
 Начал изучать Python в 2022 году с расчетов кинематики манипуляторов, но жизнь познакомила с Data Science и обратного пути уже не было!!
 
 ### Areas of machine learning:
-Classic ML, NLP, CV, FCNN
+Classic ML, NLP, FCNN, CV
 
 #### Technical Skills
 Strong matematical background (***BMSTU***, Moscow)  
